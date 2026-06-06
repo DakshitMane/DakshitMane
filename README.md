@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've developed Credit Card Fraud Detection System, Automated Video Generator, and so on.<br>I'm currently learning Deap Learning, Neural Networks.
+I've developed Credit Card Fraud Detection System, Automated Video Generator, and so on.<br>I'm currently learning Deep Learning, Neural Networks.
 
 
 ## 🌐 Socials:
